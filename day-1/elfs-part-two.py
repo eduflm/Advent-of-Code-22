@@ -2,7 +2,7 @@ import sys
 
 if __name__ == "__main__":
     
-    file = open("C:\Dev\Advent-of-Code-22\day-one\input.txt", "r")
+    file = open("C:\Dev\Advent-of-Code-22\day-1\input.txt", "r")
 
     sums = []
 

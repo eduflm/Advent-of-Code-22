@@ -20,7 +20,7 @@
 #   sum points
 
 
-file = open("C:\Dev\Advent-of-Code-22\day-two\input.txt", "r")
+file = open("C:\Dev\Advent-of-Code-22\day-2\input.txt", "r")
 
 strategy_guide = {
     "A": "Y",
